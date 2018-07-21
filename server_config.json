@@ -9,7 +9,7 @@
       "clients": [
         {
           "id": "your_uuid",
-          "alterId": 32
+          "alterId": 32,
 	  "security":"none"
         }
       ]
