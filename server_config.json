@@ -10,7 +10,7 @@
         {
           "id": "your_uuid",
           "alterId": 32
-	  "security": "none"
+	  "security":"none"
         }
       ]
     },
